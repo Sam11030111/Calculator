@@ -8,3 +8,4 @@
 import Foundation
 
 let message = "SSS"
+let message2 = "Vivian"
